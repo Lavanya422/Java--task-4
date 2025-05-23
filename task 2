@@ -1,0 +1,13 @@
+public class task2 {
+
+	public static void main(String[] args) {
+        int number = 8;  // You can change this to any integer
+
+        // Check if the number is even
+        if (number % 2 == 0) {
+            System.out.println(number + " is an even number.");
+        } else {
+            System.out.println(number + " is not an even number.");
+        }
+    }
+}
