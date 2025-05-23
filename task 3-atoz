@@ -1,0 +1,10 @@
+public class AtoZcode {
+
+	public static void main(String[] args) {
+        System.out.println("Characters from A to Z:");
+
+        for (char letter = 'A'; letter <= 'Z'; letter++) {
+            System.out.print(letter + " ");
+        }
+    }
+}
